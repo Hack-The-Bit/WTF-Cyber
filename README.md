@@ -5,7 +5,6 @@ List links and description
 * [Certification](#certification)
 * [Organizations](#org)
 * [Informatives and Blogs](#blogs)
-* [Books](#books)
 * [CTF, Training L3g@l and G@mes](#training)
 * [Non-legal Cyber activism](#hackactivism)
 * [IT Hacking list](#ithack)
@@ -62,12 +61,6 @@ List links and description
 | [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
 | [Virtual Dispersive Networking](https://www.loginradius.com/blog/async/Learn-About-VDN-for-CyberSecurity/) | Virtual Dispersive Networking for Cyber Security Blog |
 
-### <a name="books"></a>Books
-| Link | Description |
-| ------ | ------ |
-| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
-| [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
-| [ICS-CERT-US - Alerts](https://ics-cert.us-cert.gov/alerts) | An ICS-CERT Alert is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.|
 
 ### <a name="training"></a>CTF, Training L3g@l and G@mes
 | Link | Description | 
